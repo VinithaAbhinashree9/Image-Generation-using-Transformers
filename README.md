@@ -1,5 +1,5 @@
 # Image-Generation-using-Transformers
-# Stable Diffusion Img2Img Generator
+
 
 This project uses Stable Diffusion and Hugging Face Diffusers
 to transform images using text prompts.
